@@ -8,7 +8,9 @@ export default function Pictures(){
         <div className="pictures-container">
             {
                 images.map(image => (
-                    <img src={image.src} key={image.id}/>
+                    <div className='picture'>
+                        <img src={image.src} key={image.id}/>
+                    </div>
                 ))
             }
         </div>

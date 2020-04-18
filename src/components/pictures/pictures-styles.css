@@ -3,8 +3,14 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.picture {
+    width: 200px;
+    margin: 3px;
+}
 .pictures-container img{
-    max-width: 200px;
+    width: 100%;
+    height: auto;
     margin: 5px 10px;
     border: 1px solid black;
     border-radius: 5px;

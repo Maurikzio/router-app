@@ -14,14 +14,14 @@ export default function SuperRouter(props){
         <Router>
             <Nav />
             <Switch>
-                <Route exact path="/" component={Home}/>
-                <Route path="/posts" component={Posts} />
-                <Route path="/pictures" component={Pictures} />
+                <Route exact path="/router-app/" component={Home}/>
+                <Route path="/router-app/posts" component={Posts} />
+                <Route path="/router-app/pictures" component={Pictures} />
                 {/* component={() => <Contacts data={contacts}/>} */}
-                <Route exact path="/contacts">
+                <Route exact path="/router-app/contacts">
                     <Contacts data={contacts}/>
                 </Route>
-                <Route path="/contacts/:username" component={() => <ContactInfo data={contacts}/>} />
+                <Route path="/router-app/contacts/:username" component={() => <ContactInfo data={contacts}/>} />
             </Switch>
         </Router>
     )
