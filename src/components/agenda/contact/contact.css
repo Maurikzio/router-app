@@ -1,0 +1,37 @@
+.contact{
+    /* background-color: orangered; */
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid rgb(43, 43, 43);
+    margin-bottom: 10px;
+    padding-bottom: 3px;
+}
+.contact a{
+    color: white;
+    text-decoration: none;
+}
+.contact a:hover{
+    text-decoration: underline
+}
+.contact p{
+    margin: 0;
+}
+.name{
+    /* background-color: purple; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+}
+.gender{
+    /* background-color: royalblue; */
+    flex-grow: 1;
+    text-align: right;
+    padding-right: 5px;
+    color: rgb(0, 120, 233)
+}
+.phone{
+    width: 100%;
+    font-size: 14px;
+    font-weight: 200;
+    /* background-color: salmon; */
+}

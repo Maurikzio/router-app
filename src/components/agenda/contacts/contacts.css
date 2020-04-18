@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    border: 0;
+}
+.contacts-container{
+    padding-top: 30px;
+}
+.container{
+    /* padding-top: 5px; */
+    background-color: black;
+    color: white;
+    width: 300px;
+    margin: auto;
+    min-height: 400px;
+}
+h2{
+    display: inline-block;
+    margin-top: 30px;
+    /* background-color: orangered; */
+    font-size: 30px;
+    margin-bottom: 5px;
+    padding-left: 15px;
+}
+.searchBar{
+    background-color: rgb(28, 28, 31);
+    display: flex;
+    justify-content: right;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* padding-left: 15px; */
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.searchBar p{
+    margin: 0;
+    padding: 1px 5px;
+    font-weight: 400;
+    font-size: 20px;
+    transform: rotate(-45deg);
+    color: rgb(127, 127, 133);
+}
+.searchBar input{
+    width: 100%;
+    font-size: 15px;
+    color: white;
+    background-color: transparent;
+    margin: none;
+}
+
+.searchBar input:focus{
+    outline: none;
+}
+
+.searchBar input::placeholder{
+    color: rgb(127, 127, 133);
+}
+
+.contactList{
+    padding: 10px 15px;
+    list-style: none;
+    border-top: 1px solid rgb(43, 43, 43);
+}
+
+.genderFilter{
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
