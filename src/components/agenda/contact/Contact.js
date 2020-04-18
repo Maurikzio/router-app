@@ -15,7 +15,7 @@ function Contact({firstName, lastName, phone, gender}){
     
     return(
         <li className='contact'>
-            <Link to={`contacts/${firstName}`}>
+            <Link to={`/router-app/contacts/${firstName}`}>
                 <p className='name'>{firstName} {lastName}</p>
             </Link>
             <p className='gender'>{genderSign}</p>
