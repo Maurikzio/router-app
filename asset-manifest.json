@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/router-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/router-app/static/js/main.e8e097c9.chunk.js",
-    "main.js.map": "/router-app/static/js/main.e8e097c9.chunk.js.map",
+    "main.css": "/router-app/static/css/main.0b31aa7e.chunk.css",
+    "main.js": "/router-app/static/js/main.8616a857.chunk.js",
+    "main.js.map": "/router-app/static/js/main.8616a857.chunk.js.map",
     "runtime-main.js": "/router-app/static/js/runtime-main.391d132a.js",
     "runtime-main.js.map": "/router-app/static/js/runtime-main.391d132a.js.map",
-    "static/js/2.db648bf2.chunk.js": "/router-app/static/js/2.db648bf2.chunk.js",
-    "static/js/2.db648bf2.chunk.js.map": "/router-app/static/js/2.db648bf2.chunk.js.map",
+    "static/js/2.41d3f069.chunk.js": "/router-app/static/js/2.41d3f069.chunk.js",
+    "static/js/2.41d3f069.chunk.js.map": "/router-app/static/js/2.41d3f069.chunk.js.map",
     "index.html": "/router-app/index.html",
-    "precache-manifest.9c85925faae3ee29f9e19d983e8f6d4f.js": "/router-app/precache-manifest.9c85925faae3ee29f9e19d983e8f6d4f.js",
+    "precache-manifest.97ba06bf2bf081bba585933f23fb274e.js": "/router-app/precache-manifest.97ba06bf2bf081bba585933f23fb274e.js",
     "service-worker.js": "/router-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/router-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.db648bf2.chunk.js.LICENSE.txt": "/router-app/static/js/2.db648bf2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/router-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.0b31aa7e.chunk.css.map": "/router-app/static/css/main.0b31aa7e.chunk.css.map",
+    "static/js/2.41d3f069.chunk.js.LICENSE.txt": "/router-app/static/js/2.41d3f069.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/router-app/static/media/logo.5d5d9eef.svg",
+    "static/media/pic1.jpg": "/router-app/static/media/pic1.7b3701d7.jpg",
+    "static/media/pic10.jpeg": "/router-app/static/media/pic10.a1f1b798.jpeg",
+    "static/media/pic11.jpeg": "/router-app/static/media/pic11.7238ccf9.jpeg",
+    "static/media/pic12.jpeg": "/router-app/static/media/pic12.4fb910b5.jpeg",
+    "static/media/pic3.jpg": "/router-app/static/media/pic3.a0b6f70e.jpg",
+    "static/media/pic4.jpg": "/router-app/static/media/pic4.8b38b1f9.jpg",
+    "static/media/pic5.jpg": "/router-app/static/media/pic5.67191b33.jpg",
+    "static/media/pic6.jpeg": "/router-app/static/media/pic6.588797f6.jpeg",
+    "static/media/pic7.jpeg": "/router-app/static/media/pic7.ef896c62.jpeg",
+    "static/media/pic8.jpeg": "/router-app/static/media/pic8.9cf9d56b.jpeg",
+    "static/media/pic9.jpeg": "/router-app/static/media/pic9.165f2863.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.391d132a.js",
-    "static/js/2.db648bf2.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e8e097c9.chunk.js"
+    "static/js/2.41d3f069.chunk.js",
+    "static/css/main.0b31aa7e.chunk.css",
+    "static/js/main.8616a857.chunk.js"
   ]
 }
