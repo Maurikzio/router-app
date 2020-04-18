@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/router-app/static/css/main.0b31aa7e.chunk.css",
-    "main.js": "/router-app/static/js/main.8616a857.chunk.js",
-    "main.js.map": "/router-app/static/js/main.8616a857.chunk.js.map",
+    "main.css": "/router-app/static/css/main.613ef195.chunk.css",
+    "main.js": "/router-app/static/js/main.95977d1e.chunk.js",
+    "main.js.map": "/router-app/static/js/main.95977d1e.chunk.js.map",
     "runtime-main.js": "/router-app/static/js/runtime-main.391d132a.js",
     "runtime-main.js.map": "/router-app/static/js/runtime-main.391d132a.js.map",
     "static/js/2.41d3f069.chunk.js": "/router-app/static/js/2.41d3f069.chunk.js",
     "static/js/2.41d3f069.chunk.js.map": "/router-app/static/js/2.41d3f069.chunk.js.map",
     "index.html": "/router-app/index.html",
-    "precache-manifest.97ba06bf2bf081bba585933f23fb274e.js": "/router-app/precache-manifest.97ba06bf2bf081bba585933f23fb274e.js",
+    "precache-manifest.49f2549a4891516d651a3d9b8a6530c0.js": "/router-app/precache-manifest.49f2549a4891516d651a3d9b8a6530c0.js",
     "service-worker.js": "/router-app/service-worker.js",
-    "static/css/main.0b31aa7e.chunk.css.map": "/router-app/static/css/main.0b31aa7e.chunk.css.map",
+    "static/css/main.613ef195.chunk.css.map": "/router-app/static/css/main.613ef195.chunk.css.map",
     "static/js/2.41d3f069.chunk.js.LICENSE.txt": "/router-app/static/js/2.41d3f069.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/router-app/static/media/logo.5d5d9eef.svg",
     "static/media/pic1.jpg": "/router-app/static/media/pic1.7b3701d7.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.391d132a.js",
     "static/js/2.41d3f069.chunk.js",
-    "static/css/main.0b31aa7e.chunk.css",
-    "static/js/main.8616a857.chunk.js"
+    "static/css/main.613ef195.chunk.css",
+    "static/js/main.95977d1e.chunk.js"
   ]
 }
